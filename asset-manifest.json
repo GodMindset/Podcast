@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/podcast/static/css/main.39299768.chunk.css",
-    "main.js": "/podcast/static/js/main.03af970a.chunk.js",
-    "main.js.map": "/podcast/static/js/main.03af970a.chunk.js.map",
+    "main.js": "/podcast/static/js/main.c1b6c005.chunk.js",
+    "main.js.map": "/podcast/static/js/main.c1b6c005.chunk.js.map",
     "runtime-main.js": "/podcast/static/js/runtime-main.faef1caa.js",
     "runtime-main.js.map": "/podcast/static/js/runtime-main.faef1caa.js.map",
-    "static/js/2.bc7aed4a.chunk.js": "/podcast/static/js/2.bc7aed4a.chunk.js",
-    "static/js/2.bc7aed4a.chunk.js.map": "/podcast/static/js/2.bc7aed4a.chunk.js.map",
+    "static/js/2.625e5357.chunk.js": "/podcast/static/js/2.625e5357.chunk.js",
+    "static/js/2.625e5357.chunk.js.map": "/podcast/static/js/2.625e5357.chunk.js.map",
     "index.html": "/podcast/index.html",
-    "precache-manifest.c3f3c734ace3ff77094ecfeb9071f35c.js": "/podcast/precache-manifest.c3f3c734ace3ff77094ecfeb9071f35c.js",
+    "precache-manifest.61c0763ba2a91165a941ca91814ecf3f.js": "/podcast/precache-manifest.61c0763ba2a91165a941ca91814ecf3f.js",
     "service-worker.js": "/podcast/service-worker.js",
     "static/css/main.39299768.chunk.css.map": "/podcast/static/css/main.39299768.chunk.css.map",
-    "static/js/2.bc7aed4a.chunk.js.LICENSE.txt": "/podcast/static/js/2.bc7aed4a.chunk.js.LICENSE.txt"
+    "static/js/2.625e5357.chunk.js.LICENSE.txt": "/podcast/static/js/2.625e5357.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.faef1caa.js",
-    "static/js/2.bc7aed4a.chunk.js",
+    "static/js/2.625e5357.chunk.js",
     "static/css/main.39299768.chunk.css",
-    "static/js/main.03af970a.chunk.js"
+    "static/js/main.c1b6c005.chunk.js"
   ]
 }
